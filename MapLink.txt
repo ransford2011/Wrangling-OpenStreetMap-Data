@@ -1,0 +1,4 @@
+Link to Map position:
+https://s3.amazonaws.com/metro-extracts.mapzen.com/atlanta_georgia.osm.bz2
+
+I chose this area because this is where I grew up.  Since I lived here, I have some substantive expertise about which streets actually are in the city of Atlanta and which are in the Metro area.  I also was interested to see how much open-source participation has been done to clean up the map area.

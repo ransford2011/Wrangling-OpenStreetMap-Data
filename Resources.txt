@@ -1,0 +1,5 @@
+Links used:
+http://www.zipcodestogo.com/county-zip-code-list.htm
+http://wiki.openstreetmap.org/wiki/OSM_XML
+http://effbot.org/elementtree/iterparse.htm
+https://pypi.python.org/pypi/memory_profiler
